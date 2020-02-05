@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>Face to face nots_1</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\Face to face nots_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>605</width>
+    <height>652</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sleep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>41</xmin>
+      <ymin>139</ymin>
+      <xmax>224</xmax>
+      <ymax>164</ymax>
+    </bndbox>
+  </object>
+</annotation>

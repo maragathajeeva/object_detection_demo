@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>oxygen Rx</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\oxygen Rx.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>656</width>
+    <height>561</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>oxygen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>22</ymin>
+      <xmax>298</xmax>
+      <ymax>34</ymax>
+    </bndbox>
+  </object>
+</annotation>

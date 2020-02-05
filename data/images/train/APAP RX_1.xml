@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>APAP RX_1</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\APAP RX_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>653</width>
+    <height>647</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>rx</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>57</xmin>
+      <ymin>433</ymin>
+      <xmax>116</xmax>
+      <ymax>443</ymax>
+    </bndbox>
+  </object>
+</annotation>

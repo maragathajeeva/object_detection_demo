@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>Titration study1</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\Titration study1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>584</width>
+    <height>608</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sleep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>261</xmin>
+      <ymin>122</ymin>
+      <xmax>389</xmax>
+      <ymax>147</ymax>
+    </bndbox>
+  </object>
+</annotation>
