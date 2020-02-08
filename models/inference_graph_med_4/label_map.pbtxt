@@ -1,0 +1,39 @@
+item {
+    id: 1
+    name: 'comp'
+}
+
+item {
+    id: 2
+    name: 'demo'
+}
+
+item {
+    id: 3
+    name: 'fax'
+}
+
+item {
+    id: 4
+    name: 'oxygen'
+}
+
+item {
+    id: 5
+    name: 'pay'
+}
+
+item {
+    id: 6
+    name: 'rx'
+}
+
+item {
+    id: 7
+    name: 'setup'
+}
+
+item {
+    id: 8
+    name: 'sleep'
+}
