@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>CPAP RX_1</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\CPAP RX_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>780</width>
+    <height>471</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>rx</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>47</xmin>
+      <ymin>206</ymin>
+      <xmax>215</xmax>
+      <ymax>231</ymax>
+    </bndbox>
+  </object>
+</annotation>

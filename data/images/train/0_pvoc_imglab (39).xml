@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>2-CPAP rx.jpg</filename>
+    <path>images/2-CPAP rx.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>446</width>
+        <height>574</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>rx-orderdate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>5</xmin>
+            <ymin>16</ymin>
+            <xmax>47</xmax>
+            <ymax>27</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>rx-rxio</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>304</xmin>
+            <ymin>18</ymin>
+            <xmax>327</xmax>
+            <ymax>30</ymax>
+        </bndbox>
+    </object>
+</annotation>

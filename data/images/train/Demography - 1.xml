@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>Demography - 1</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\Demography - 1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>621</width>
+    <height>658</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>demo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>70</xmin>
+      <ymin>4</ymin>
+      <xmax>139</xmax>
+      <ymax>23</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>demo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>253</ymin>
+      <xmax>184</xmax>
+      <ymax>269</ymax>
+    </bndbox>
+  </object>
+</annotation>

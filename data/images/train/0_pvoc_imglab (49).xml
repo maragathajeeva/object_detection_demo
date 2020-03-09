@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>3-09.png</filename>
+    <path>images/3-09.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>840</width>
+        <height>597</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fax-faxnumber</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>328</xmin>
+            <ymin>288</ymin>
+            <xmax>452</xmax>
+            <ymax>310</ymax>
+        </bndbox>
+    </object>
+</annotation>

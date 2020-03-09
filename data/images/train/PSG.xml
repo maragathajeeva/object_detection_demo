@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>PSG</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\PSG.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>728</width>
+    <height>670</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sleep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>276</xmin>
+      <ymin>69</ymin>
+      <xmax>502</xmax>
+      <ymax>100</ymax>
+    </bndbox>
+  </object>
+</annotation>

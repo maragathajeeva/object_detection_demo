@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>6-02</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\6-02.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>621</width>
+    <height>571</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fax</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>25</xmin>
+      <ymin>151</ymin>
+      <xmax>97</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fax</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>162</xmin>
+      <ymin>149</ymin>
+      <xmax>403</xmax>
+      <ymax>204</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>setup ticket 1</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\setup ticket 1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>498</width>
+    <height>586</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>setup</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>46</xmin>
+      <ymin>55</ymin>
+      <xmax>235</xmax>
+      <ymax>74</ymax>
+    </bndbox>
+  </object>
+</annotation>

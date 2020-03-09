@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>Sleep Study (2)</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\Sleep Study (2).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>546</width>
+    <height>673</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sleep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>387</xmin>
+      <ymin>50</ymin>
+      <xmax>509</xmax>
+      <ymax>63</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sleep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>169</xmin>
+      <ymin>172</ymin>
+      <xmax>268</xmax>
+      <ymax>181</ymax>
+    </bndbox>
+  </object>
+</annotation>

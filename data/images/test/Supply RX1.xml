@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>Supply RX1</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\Supply RX1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>490</width>
+    <height>630</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>rx</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>308</xmin>
+      <ymin>158</ymin>
+      <xmax>398</xmax>
+      <ymax>188</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>rx</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>39</xmin>
+      <ymin>186</ymin>
+      <xmax>182</xmax>
+      <ymax>198</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>delivery ticket 9</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\delivery ticket 9.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>565</width>
+    <height>598</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>setup</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>121</xmin>
+      <ymin>34</ymin>
+      <xmax>420</xmax>
+      <ymax>73</ymax>
+    </bndbox>
+  </object>
+</annotation>

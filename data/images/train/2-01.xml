@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>2-01</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\2-01.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>484</width>
+    <height>586</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>comp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>198</ymin>
+      <xmax>122</xmax>
+      <ymax>212</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>comp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>224</ymin>
+      <xmax>116</xmax>
+      <ymax>233</ymax>
+    </bndbox>
+  </object>
+</annotation>

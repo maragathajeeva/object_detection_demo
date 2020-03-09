@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>Face to face nots_1</filename>
+  <path>C:\Users\maragathamani\PycharmProjects\untitled2\venv\models\research\object_detection\images\train\Face to face nots_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>605</width>
+    <height>652</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>comp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>173</xmin>
+      <ymin>70</ymin>
+      <xmax>247</xmax>
+      <ymax>89</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>comp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>266</xmin>
+      <ymin>72</ymin>
+      <xmax>340</xmax>
+      <ymax>92</ymax>
+    </bndbox>
+  </object>
+</annotation>

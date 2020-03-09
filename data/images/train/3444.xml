@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>3444</filename>
+  <path>C:\Users\maragathamani\PycharmProjects\untitled2\venv\models\research\object_detection\images\train\3444.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>493</width>
+    <height>585</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>setup</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>156</xmin>
+      <ymin>142</ymin>
+      <xmax>297</xmax>
+      <ymax>172</ymax>
+    </bndbox>
+  </object>
+</annotation>

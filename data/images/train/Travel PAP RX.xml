@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>Travel PAP RX</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\Travel PAP RX.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>621</width>
+    <height>624</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>rx</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>50</ymin>
+      <xmax>130</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>rx</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>65</xmin>
+      <ymin>86</ymin>
+      <xmax>182</xmax>
+      <ymax>103</ymax>
+    </bndbox>
+  </object>
+</annotation>

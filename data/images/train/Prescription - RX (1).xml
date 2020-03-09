@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Re Sample documents</folder>
+  <filename>Prescription - RX (1)</filename>
+  <path>C:\Users\maragathamani\Desktop\Re Sample documents\Prescription - RX (1).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>579</width>
+    <height>622</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sleep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>11</ymin>
+      <xmax>218</xmax>
+      <ymax>51</ymax>
+    </bndbox>
+  </object>
+</annotation>
